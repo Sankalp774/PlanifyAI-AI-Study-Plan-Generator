@@ -2,13 +2,19 @@
 An AI Study Plan Generator with Email Scheduling
 
 An AI-powered study planner built for Google Colab with a Gradio interface.
+
 Upload a document (PDF, DOCX, PPTX, or TXT), and the app will:
 
 ✅ Extract the content
+
 ✅ Summarize the document
+
 ✅ Generate a personalized, multi-day study plan
+
 ✅ Suggest practice questions for active recall
+
 ✅ Email the study plan at 5 PM in your timezone
+
 ✅ Save study plans directly to Google Drive
 
 🚀 Features
