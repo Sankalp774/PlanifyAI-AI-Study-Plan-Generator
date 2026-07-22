@@ -1,7 +1,7 @@
 # PlanifyAI — AI Study Plan Generator
 
-> **Academic stage:** **3rd / 4th year** Applied AI · **Created:** September 2025  
-> **Learning focus:** Multi-format ingest · summarization pipelines · study-plan heuristics · question generation · packaging notebooks into CLI/UI modules · light vs generative modes
+> **Created:** (2025-09-07)  
+> **Latest update:** (2026-07-22) — planify Python package (CLI + Gradio) with light mode + tests
 
 ## About
 
