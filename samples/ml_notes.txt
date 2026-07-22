@@ -1,0 +1,19 @@
+Introduction to Machine Learning
+
+Supervised learning uses labeled data to train models that map inputs to outputs.
+Common algorithms include linear regression, logistic regression, decision trees,
+and support vector machines.
+
+Unsupervised learning finds structure without labels. Clustering (k-means, hierarchical)
+and dimensionality reduction (PCA) are foundational techniques.
+
+Model evaluation requires train/validation/test splits. Classification metrics include
+accuracy, precision, recall, and F1. Regression uses MAE, MSE, and R².
+
+Overfitting happens when models memorize training data. Regularization, dropout,
+early stopping, and more data help generalization.
+
+Neural networks stack layers of nonlinear transforms. Deep learning powers vision,
+language, and speech systems when large datasets and compute are available.
+
+A practical study path: math foundations → classical ML → deep learning → MLOps basics.
